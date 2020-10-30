@@ -248,8 +248,6 @@ var(num_vars$dto_site)
 var(num_vars$age)
 var(num_vars$income)
 var(num_vars$di_usage)
-var(num_vars$gender)
-var(num_vars$clicked)
 
 
 # daily time on site and area income have very high variance. This indicates the two are highly skewed and are not normally distributed.
