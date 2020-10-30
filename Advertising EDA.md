@@ -8,15 +8,15 @@
 
 ###################################### 2. Metrics for Success
 
-  ```##                               1. An Accuracy Score of atleast 85%
+                                      1. An Accuracy Score of atleast 85%
                                       2. A low RMSE Score
                                       3. Confusion Matrix with more correct predictions than incorrect ones
-```
+
 
 ###################################### 3. Understanding the Context
 
-```##                                It is imperative that all entrepreneurs identify all opportunities to advertise and boost their sales in whatever business they are engaged in. More over, online advertisements are a key driver of sales of products and services and its important for entrepreneurs to capitalise on this by identifying peak hours for ads to be clicked, the type of ads that people like, personality traits of site visitors and other demographics of potential clients such as age, employment status, interests, hobbies, career etc. Knowing such information creates an avenue for channeling the right adverts to potential clients and classifying or predicting whether or not they'll click on the ad.
-```
+It is imperative that all entrepreneurs identify all opportunities to advertise and boost their sales in whatever business they are engaged in. More over, online advertisements are a key driver of sales of products and services and its important for entrepreneurs to capitalise on this by identifying peak hours for ads to be clicked, the type of ads that people like, personality traits of site visitors and other demographics of potential clients such as age, employment status, interests, hobbies, career etc. Knowing such information creates an avenue for channeling the right adverts to potential clients and classifying or predicting whether or not they'll click on the ad.
+
 
 ###################################### 4. Recording the Experimental Design
 
