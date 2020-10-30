@@ -8,9 +8,9 @@ Creating a model in R that predicts which individuals are most likely to click o
 
 ###################################### 2. Metrics for Success
 
-  ```##                               1. An Accuracy Score of atleast 85%
-                                      2. A low RMSE Score
-                                      3. Confusion Matrix with more correct predictions than incorrect ones
+                              ```## 1. An Accuracy Score of atleast 85%
+                                    2. A low RMSE Score
+                                    3. Confusion Matrix with more correct predictions than incorrect ones
 ```
 
 ###################################### 3. Understanding the Context
