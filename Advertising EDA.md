@@ -102,7 +102,7 @@ for (column in seq(length(colnames(advertising)))){
     print(columns[column])
     print(class(advertising[, column]))
     cat('\n')
-}
+} 
 
 
 
