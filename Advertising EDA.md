@@ -20,7 +20,7 @@ It is imperative that all entrepreneurs identify all opportunities to advertise 
 
 ###################################### 4. Recording the Experimental Design
 
-  ```##                               1. Data Preparation and Cleaning
+                                      1. Data Preparation and Cleaning
                                       2. Feature Engineering
                                       3. Exploratory Data Analysis
                                       4. Modelling
